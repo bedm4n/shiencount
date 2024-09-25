@@ -1,0 +1,70 @@
+body {
+    background-image: url("/assets/img/bg.png");
+    background-size: 75%;
+    background-repeat: repeat;
+    font-family: "Playwrite DE Grund", cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fdfdcb;
+    background: #beab6d;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    font-family: "Playwrite DE Grund", cursive;
+    font-weight: bold;
+}
+
+div {
+    background-color: #fdfdcb;
+    border: 5px #beab6d dashed;
+    border-radius: 10%;
+    padding: 20px;
+    margin: 40px auto;
+    text-align: center;
+    width: 300px;
+}
+
+#increment-btn {
+    background: #ce4e38;
+}
+
+#save-btn {
+    background: #398282;
+}
+
+#containter {
+    max-width: 300px;
+}
+
+#note {
+    padding: 10px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fdfdcb;
+    background: #beab6d;
+    border-radius: 10px;
+}
+
