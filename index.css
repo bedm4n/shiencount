@@ -2,7 +2,7 @@ body {
     background-image: url("/assets/img/bg.png");
     background-size: 75%;
     background-repeat: repeat;
-    font-family: "Playwrite DE Grund", cursive;
+    font-family: "Playwrite DE Grund", serif;
     font-weight: bold;
     text-align: center;
 }
