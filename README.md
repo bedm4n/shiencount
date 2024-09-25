@@ -1,6 +1,6 @@
 # Shiencount
 
-A crappy little shiny encounter.
+A crappy little shiny encounter webapp.
 
 # How to use
 Press **Encounter** to track an Encounter\
